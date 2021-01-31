@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+THIS IS IT BABY I'M LEARNING THE HUB
 Click the left arrow to go back!
